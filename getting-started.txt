@@ -1,2 +1,4 @@
 I ate an omlette. Yaya!
 Do not use git commit -a only use git commit -m
+
+Forgot some shit
